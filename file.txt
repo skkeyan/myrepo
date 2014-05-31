@@ -4,3 +4,4 @@ line3 - Adding the original line
 line4 - New line added
 line 5 - Testing one more line
 line 6 - Adding a new line
+line 7 - Added to test the develop branch
